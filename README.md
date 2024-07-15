@@ -13,5 +13,11 @@ Learnings:
 1. ==   True (type coercion)       First convert into same datatype than compare
 2. ===  False (different types)    Do not change datatype direct compare
 
+Day 3 : Control Structures
+Learnings:
+
+1. IN JAVASCRIPT SWITCH CASE CANT DIRECTLY USE FOR COMPARISION OR DIFERENT CONDITIONS USE SWITCH(TRUE) AND THAN DIRECTLY PUT THE COMAPRISION IN "CASE COMAPRE:" TO RUN
+The switch (true) syntax allows us to evaluate each case based on a boolean expression (true in this case), which checks each condition (score >= 90, score >= 80, etc.) sequentially until one matches.
+
 
    
