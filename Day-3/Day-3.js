@@ -21,6 +21,8 @@ else{
     console.log("You can-not vote");
 }
 
+
+
 // ACTIVITY 2
 
 let c=9034;
