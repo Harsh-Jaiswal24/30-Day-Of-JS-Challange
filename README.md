@@ -19,5 +19,10 @@ Learnings:
 1. IN JAVASCRIPT SWITCH CASE CANT DIRECTLY USE FOR COMPARISION OR DIFERENT CONDITIONS USE SWITCH(TRUE) AND THAN DIRECTLY PUT THE COMAPRISION IN "CASE COMAPRE:" TO RUN
 The switch (true) syntax allows us to evaluate each case based on a boolean expression (true in this case), which checks each condition (score >= 90, score >= 80, etc.) sequentially until one matches.
 
+Day 4 : Loops
+Learnings: 
 
+1. BREAK: BREAK OUT THE CURRENT AND NEXT ALL ITTERATIOIN (jumpout2 loops)
+2. TO AVOID PRINTING IN NEW LINE USE process.stdout.write("");
+3. CONTINUE: WILL EGNORE THE CURRENT ITTERATION AND MOVE TO NEXT 
    
