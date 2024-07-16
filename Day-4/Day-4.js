@@ -23,7 +23,7 @@ while(t>=1){
     console.log(t)
     t--;
 }
-console.log("////")
+
 //ACTIVITY 3
 
 let tt=1;
@@ -41,11 +41,33 @@ do{
 }while(numb>0);
 console.log(fact);
 
-//ACTIVITY 5;
+//ACTIVITY 4;
 
 for(i=0;i<5;i++){
     let j=0;
     for(j=0;j<=i;j++){
-        console.log("*");
+        process.stdout.write("*");   
     }
+    console.log();
 }
+
+//ACTIVITY 5
+
+let nn=1;
+for(nn=1;nn<=5;nn++){
+   if(nn==5){
+    continue;  
+
+   }
+   console.log(nn)
+    
+   }
+
+   let np=1;
+   for(np=0;np<=10;np++){
+    if(np==7){
+        break;  
+       
+    }
+    console.log(np);
+   }
