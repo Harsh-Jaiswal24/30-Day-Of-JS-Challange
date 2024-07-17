@@ -19,5 +19,13 @@ Learnings:
 1. IN JAVASCRIPT SWITCH CASE CANT DIRECTLY USE FOR COMPARISION OR DIFERENT CONDITIONS USE SWITCH(TRUE) AND THAN DIRECTLY PUT THE COMAPRISION IN "CASE COMAPRE:" TO RUN
 The switch (true) syntax allows us to evaluate each case based on a boolean expression (true in this case), which checks each condition (score >= 90, score >= 80, etc.) sequentially until one matches.
 
+DAY 5 : FUNCTIONS 
+Learnings: 
+
+1. TON CHECK A CHARACTER EXISTS IN A STRING OR NOT USE "strname.includes("character")
+2.  WHILE CALLING A BIG FUNCTION OR MAIN FUNCTION WE HAVE TO GIVE FUNCTION NAME IN CALLING SYNTAX OTHERWISE ERROR WILL GENERATED 
+    sumofcars(f1,f2,15)  here f1 & f2 are different functionname of function created. 
+3. USE f2(f1(a)) type for calling one by one function with in same. 
+
 
    
