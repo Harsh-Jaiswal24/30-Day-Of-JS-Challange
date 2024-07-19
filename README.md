@@ -32,5 +32,16 @@ Learnings:
     sumofcars(f1,f2,15)  here f1 & f2 are different functionname of function created. 
 3. USE f2(f1(a)) type for calling one by one function with in same. 
 
+Day 6 : Array
+Learnings: 
+
+1. FOR PRINTING LAST OF ELEMENT IN ARRAY USE "arraylength" -1
+2. PUSH METHOD INSERT THE ELEMENT AT LAST
+3. Unshift use for add a number at first position in Array
+4. Shift use for remore a element from array from first place
+5. Map is for Create a new array from a existed array by changing in value of previous array
+6. Filter is use for creating a new array from an existing array  which consists only some satisfied elements.
+7. the reduce method in JavaScript is used to "reduce" an array to a single value. It executes a provided function for each element of the array and accumulates a result
+8. forEach is used for access all the elements of the array and we can manupulate is also is requied 
 
    
