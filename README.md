@@ -42,6 +42,19 @@ Learnings:
 5. Map is for Create a new array from a existed array by changing in value of previous array
 6. Filter is use for creating a new array from an existing array  which consists only some satisfied elements.
 7. the reduce method in JavaScript is used to "reduce" an array to a single value. It executes a provided function for each element of the array and accumulates a result
-8. forEach is used for access all the elements of the array and we can manupulate is also is requied 
+8. forEach is used for access all the elements of the array and we can manupulate is also is requied
+
+Day 7 : Objects 
+Learnings: 
+
+1. Entries method in JS create a copy of all elements of object into elements of array and return in the form of array.
+2. Assign is used to copy all the object into new and if update the existed objcet will be updated and original will also be updated
+3. In JavaScript, the 'this' keyword is a special identifier that refers to the current execution context. Its value is determined by how a function is called, and it allows functions to dynamically access and interact with objects at runtime.
+4. In JavaScript, the for...in loop is used to iterate over the enumerable properties of an object. It allows you to loop through the keys (property names) of an object, including inherited properties from its prototype chain.
+5. The Object.keys() method returns an array of a given object's own enumerable property keys.
+6. The Object.values() method returns an array of a given object's own enumerable property values.
+
+   (Task ::  learn more about different types of Methods and keywords).
+
 
    
