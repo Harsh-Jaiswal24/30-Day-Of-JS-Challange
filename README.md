@@ -56,5 +56,15 @@ Learnings:
 
    (Task ::  learn more about different types of Methods and keywords).
 
+Day 8 : ES6+ Features 
+Learnings: 
+
+1. The spread operator is used to expand elements of an iterable (like an array) into places where multiple elements (or arguments) are expected. Here Spread operator used to concatenate arrays.
+2. Destructuring in JavaScript allows you to easily extract values from arrays or Objects and assign them to variables in a concise way. 
+3. The rest parameter syntax (...) allows functions to accept an indefinite number of arguments as an array. It collects all remaining arguments into an array.
+4. Computed property names in JavaScript allow you to dynamically define object properties using variables or expressions inside square brackets ([]) within an object literal.
+
+
+
 
    
