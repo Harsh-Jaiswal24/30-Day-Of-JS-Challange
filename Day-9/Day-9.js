@@ -27,7 +27,6 @@ const clrc= document.getElementsByClassName("bgc");
     //ACTIVITY 3 Removing Element
 
     let remo= document.querySelector(".rem");
-          ;
 
     ulelement.removeChild(ulelement.lastElementChild); //To remove removeChild(ulelement.lastElementChild) It will remove only some child elements ;
 
