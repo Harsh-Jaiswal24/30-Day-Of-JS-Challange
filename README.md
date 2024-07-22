@@ -64,7 +64,14 @@ Learnings:
 3. The rest parameter syntax (...) allows functions to accept an indefinite number of arguments as an array. It collects all remaining arguments into an array.
 4. Computed property names in JavaScript allow you to dynamically define object properties using variables or expressions inside square brackets ([]) within an object literal.
 
+Day 9 : DOM Manupulation 
+Learnings: 
 
+1. For appending in body use documet.body.appendChild(___)
+2. For appending li element in Ul use   ulelement.appendChild(n1)
+3. to remove use abc.remove(). it will remove Parent and all the Child elements also from Parent .
+4. To add or remove a class use element.classList.add/remove("__")
+5. to remove child use abc.removeChild() it will only remove a particular child.
 
 
    
