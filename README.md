@@ -73,5 +73,13 @@ Learnings:
 4. To add or remove a class use element.classList.add/remove("__")
 5. to remove child use abc.removeChild() it will only remove a particular child.
 
+Day 10 : Event Handling
+Learnings: 
 
-   
+1. The keydown event is fired when a key is pressed. The keydown and keyup events provide a code indicating which key is pressed. That can be accessed by ${__.code}.
+2. The keyup event is fired when a key is releaed. The keydown and keyup events provide a code indicating which key is pressed. That can be accessed by ${__.code}.
+3. Prevent default is and event that is event.preventDefault() which  stops the form from being submitted to the server.
+4. It Adds an event listener for the 'change' event on the <select> element.
+5. Event delegation allows you to handle events on child elements without explicitly attaching event listeners to each child element individually. 
+6. Use  "event.target.textContent"  to Get text content of clicked <li>
+7. Add another span dynamically after a delay (simulating asynchronous addition);
